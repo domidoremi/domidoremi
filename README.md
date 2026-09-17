@@ -1,13 +1,5 @@
 <div align="center">
 
-# domidoremi
-
-</div>
-
----
-
-<div align="center">
-
 ![技术栈](https://skillicons.dev/icons?i=ts,vue,vite,nodejs,go,python,php,dart,flutter,react,git,cloudflare\&perline=12)
 
 </div>
